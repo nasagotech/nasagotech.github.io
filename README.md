@@ -4,7 +4,7 @@
 
 A Practicum Project for the Master of Science, Analytics Program at the Georgia Institute of Technology
 
-![NASA](nasa-logo-web-rgb.png)
+![NASA](nasa-logo-web-rgb.png) ![Coral Vita](CV_Logo_Primary_White.svg) 
 
 ## Background
 
