@@ -1,4 +1,4 @@
-# Project Gotech: Predicting Coral Presence Using Satellite-Based LiDAR
+# Project GOTECH: Predicting Coral Presence Using Satellite-Based LiDAR
 
 ## Josh Mattingly, Tina Guo, and Dan Schauder
 
