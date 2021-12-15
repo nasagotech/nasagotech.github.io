@@ -13,6 +13,8 @@ GeorgiaTech_RGB.png
 ## Methods
 <img src="Data_Fusion.png" alt="Data Fusion Methodology" width="900"/>
 
+<img src="Dataset_Summary.png" alt="Data Fusion Methodology" width="900"/>
+
 ## Results
 
 ## Future Work
