@@ -19,6 +19,8 @@ A 0.5 degree threshold was established to limit matching of CALIPSO backscatter 
 
 <img src="Data_Fusion.png" alt="Data Fusion Methodology" width="900"/>
 
+A model competition framework was created, allowing fusion methodologies to be tested against a standardized set of classification models.
+
 <img src="Dataset_Summary.png" alt="Data Fusion Methodology" width="900"/>
 
 ## Results
