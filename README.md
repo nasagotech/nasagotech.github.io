@@ -11,6 +11,12 @@ GeorgiaTech_RGB.png
 ## Background
 
 ## Methods
+
+###### Data Fusion
+A nearest neighbor approach was used to pair response variables (coral/algae for Allen Coral Atlas and coral-only for AIMS survey) with either the CALIPSO or NEO predictor datasets.
+
+A 0.5 degree threshold was established to limit matching of CALIPSO backscatter to the response sets.
+
 <img src="Data_Fusion.png" alt="Data Fusion Methodology" width="900"/>
 
 <img src="Dataset_Summary.png" alt="Data Fusion Methodology" width="900"/>
