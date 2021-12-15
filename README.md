@@ -6,7 +6,7 @@ A Practicum Project for the Master of Science, Analytics Program at the Georgia 
 
 NASA            |  Coral Vita
 :-------------------------:|:-------------------------:
-!['NASA'](nasa-logo-web-rgb.png)  |  !['Coral Vita'](CV_Logo_Primary_White.svg)
+<img src="nasa-logo-web-rgb.png" alt="NASA" width="200"/>  |  <img src="CV_Logo_Primary_White.svg" alt="Coral Vita" width="200"/>
 
 ## Background
 
