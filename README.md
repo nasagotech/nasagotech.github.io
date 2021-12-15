@@ -26,7 +26,24 @@ A model competition framework was created, allowing fusion methodologies to be t
 ## Results
 
 ## Future Work
+* Tune models for improved performance
+* fuse additional data sources (NEO, GALILEO, etc)
+* Find sources where CALIPSO/LiDAR improves accuracy
+* Optimize distance threshold and backscatter feature selection.
+* Update Distance and shape to match CALIPSO scan pattern.
+* Manta Tow Survey time series regression (predict amount of live coral)
+* Re-run experiment with other forms of lidar (plane/ship/drone-mounted) and other research locations
 
 ## References
+#### Data Sources
+CALIPSO data was obtained from the NASA Langley Research Center Atmospheric Science Data Center from  https://subset.larc.nasa.gov/calipso/.
+
+Australian Institute of Marine Science (AIMS). (2015). AIMS Long-term Monitoring Program: Crown-of-thorns starfish and benthos Manta Tow Data (Great Barrier Reef), https://doi.org/10.25845/5c09b0abf315a, accessed 10-Nov-2021.
+
+Chlorophyll Concentration: 8-DAY AQUA/MODIS. (2018-2020). Retrieved Oct 25, 2021, from https://neo.gsfc.nasa.gov/view.php?datasetId=MY1DMW_CHLORA
+
+Allen Coral Atlas maps, bathymetry and map statistics are © 2018-2021 Allen Coral Atlas Partnership and Vulcan, Inc. and licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+
+NASA Framework for the Ethical Use of Artificial Intelligence (AI). https://libguides.umgc.edu/c.php?g=1003870&p=7270670 
 
 ## Acknowledgements
