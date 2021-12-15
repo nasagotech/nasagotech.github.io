@@ -47,3 +47,4 @@ Allen Coral Atlas maps, bathymetry and map statistics are © 2018-2021 Allen Cor
 NASA Framework for the Ethical Use of Artificial Intelligence (AI). https://libguides.umgc.edu/c.php?g=1003870&p=7270670 
 
 ## Acknowledgements
+This research was supported in part through research cyberinfrastructure resources and services provided by the Partnership for an Advanced Computing Environment (PACE) at the Georgia Institute of Technology, Atlanta, Georgia, USA.
