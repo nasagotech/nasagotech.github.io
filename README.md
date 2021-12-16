@@ -40,6 +40,7 @@ Model performance was based on the underlying dataset.
 <img src="accuracies.png" alt="Model Accuracy Grid" width="600"/>
 
 <img src="accuracy_map.png" alt="Example model accuracy map" width="800"/>
+###### Visualization of the un-tuned ANN on the Florida (CALIPSO + Allen Coral Atlas) dataset. Green indicates correct predictions, with red being incorrect.
 
 ## Future Work
 * Tune models for improved performance
