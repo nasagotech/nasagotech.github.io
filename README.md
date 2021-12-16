@@ -36,6 +36,8 @@ A model competition framework was created, allowing fusion methodologies to be t
 <img src="Dataset_Summary.png" alt="Data Fusion Methodology" width="900"/>
 
 ## Results
+Model performance was based on the underlying dataset.
+<img src="accuracies.png" alt="Data Fusion Methodology" width="600"/>
 
 ## Future Work
 * Tune models for improved performance
