@@ -37,7 +37,9 @@ A model competition framework was created, allowing fusion methodologies to be t
 
 ## Results
 Model performance was based on the underlying dataset.
-<img src="accuracies.png" alt="Data Fusion Methodology" width="600"/>
+<img src="accuracies.png" alt="Model Accuracy Grid" width="600"/>
+
+<img src="accuracy_map.png" alt="Example model accuracy map" width="800"/>
 
 ## Future Work
 * Tune models for improved performance
