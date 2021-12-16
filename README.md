@@ -19,6 +19,8 @@ A Practicum Project for the Master of Science, Analytics Program at the Georgia 
 * Correlate Lidar Backscatter with Coral Presence.
 * Interpret Trends in a Known Global Region based on Backscatter Alone.
 
+After researching multiple potential research locations, we chose the Florida coast as our primary focus. 
+<img src="Reef_Locations.png" alt="Potential Reef Locations" width="900"/>
 
 ## Methods
 
