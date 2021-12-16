@@ -8,10 +8,21 @@ A Practicum Project for the Master of Science, Analytics Program at the Georgia 
 <img src="nasa-logo-web-rgb.png" alt="NASA" width="350"/>    <img src="CV_Logo_Primary_White.svg" alt="Coral Vita" width="250"/>    <img src="GeorgiaTech_RGB.png" alt="Georgia Tech" width="350"/>
 
 ## Background
+#### Problem Statement
+* While approximately 30% of the world’s marine species depend on coral reefs, “all the coral reefs in the world could be gone by 2070 if global heating continues on its current path” (Morrison et al, 2019).
+
+* Comprehensive and accurate coral vitality data are needed for effective preservation and restoration of coral reefs, but existing datasets are fragmented, limited in scope, and rely on costly collection methods.
+
+#### Project Aims
+* Establish a baseline dataset of coral health by fusing disparate open-source datasets.
+* Merge baseline coral health data with data from a Lidar Sensor aboard nasa’s cloud-aerosol Lidar and infrared pathfinder satellite Observation (CALIPSO) satellite.
+* Correlate Lidar Backscatter with Coral Presence.
+* Interpret Trends in a Known Global Region based on Backscatter Alone.
+
 
 ## Methods
 
-###### Data Fusion
+#### Data Fusion
 A nearest neighbor approach was used to pair response variables (coral/algae for Allen Coral Atlas and coral-only for AIMS survey) with either the CALIPSO or NEO predictor datasets.
 
 A 0.5 degree threshold was established to limit matching of CALIPSO backscatter to the response sets.
