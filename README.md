@@ -35,17 +35,19 @@ A model competition framework was created, allowing fusion methodologies to be t
 
 <img src="Dataset_Summary.png" alt="Data Fusion Methodology" width="900"/>
 
-## Results
-Model performance was based on the underlying dataset.
+## Model Results
+Model performance was based on the underlying dataset. Accuracy scores shown below.
 <img src="accuracies.png" alt="Model Accuracy Grid" width="600"/>
 
 <img src="accuracy_map.png" alt="Example model accuracy map" width="800"/>
 
 ###### Visualization of the un-tuned ANN on the Florida (CALIPSO + Allen Coral Atlas) dataset. Green indicates correct predictions, with red being incorrect.
 
+## Conclusions
+
 ## Future Work
 * Tune models for improved performance
-* fuse additional data sources (NEO, GALILEO, etc)
+* Fuse additional data sources (NEO, GALILEO, etc)
 * Find sources where CALIPSO/LiDAR improves accuracy
 * Optimize distance threshold and backscatter feature selection.
 * Update Distance and shape to match CALIPSO scan pattern.
