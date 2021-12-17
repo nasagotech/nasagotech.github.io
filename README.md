@@ -14,6 +14,8 @@ A Practicum Project for the Master of Science, Analytics Program at the Georgia 
 * Comprehensive and accurate coral vitality data are needed for effective preservation and restoration of coral reefs, but existing datasets are fragmented, limited in scope, and rely on costly collection methods.
 
 #### Project Aims
+The Geophysical Observations Toolkit for Evaluating Coral Health (GOTECH) project was a semester-long Practicum project sponsored by NASA and Coral Vita and undertaken by Master's students at Georgia Tech in the Fall of 2021 wih the following goals:
+
 * Establish a baseline dataset of coral health by fusing disparate open-source datasets.
 * Merge baseline coral health data with data from a Lidar Sensor aboard nasa’s cloud-aerosol Lidar and infrared pathfinder satellite Observation (CALIPSO) satellite.
 * Correlate Lidar Backscatter with Coral Presence.
@@ -44,13 +46,16 @@ Model performance was based on the underlying dataset. Accuracy scores shown bel
 ###### Visualization of the un-tuned ANN on the Florida (CALIPSO + Allen Coral Atlas) dataset. Green indicates correct predictions, with red being incorrect.
 
 ## Conclusions
+* Satellite-based LiDAR is a promising avenue for remote detection of coastal coral
+* Most influential datapoints for prediction taken from atmospheric readings well above ocean surface
+* Groundtruth data at higher spatiotemporal resolutions may be required to further improve predictive model performance
 
 ## Future Work
 * Tune models for improved performance
 * Fuse additional data sources (NEO, GALILEO, etc)
 * Find sources where CALIPSO/LiDAR improves accuracy
-* Optimize distance threshold and backscatter feature selection.
-* Update Distance and shape to match CALIPSO scan pattern.
+* Optimize distance threshold and backscatter feature selection
+* Update Distance and shape to match CALIPSO scan pattern
 * Manta Tow Survey time series regression (predict amount of live coral)
 * Re-run experiment with other forms of lidar (plane/ship/drone-mounted) and other research locations
 
@@ -68,3 +73,11 @@ NASA Framework for the Ethical Use of Artificial Intelligence (AI). https://libg
 
 ## Acknowledgements
 This research was supported in part through research cyberinfrastructure resources and services provided by the Partnership for an Advanced Computing Environment (PACE) at the Georgia Institute of Technology, Atlanta, Georgia, USA.
+
+Our deep thanks to the following individuals for their mentorship and gracious support of this effort:
+* Dr. Newton Campbell (NASA)
+* Doug Trent (NASA)
+* Dr. Katey Lesneski (Coral Vita)
+* Joe Oliver (Coral Vita)
+* Dr. Joel Sokol (Georgia Tech)
+* Renata Haque (Georgia Tech)
